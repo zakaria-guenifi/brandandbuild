@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Decap CMS integration with Astro
 date: 2025-09-30T22:07:00.000+02:00
 description: This is the first time I use Decap with Astro
