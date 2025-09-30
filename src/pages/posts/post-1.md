@@ -1,6 +1,7 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'My First Blog Post'
-pubDate: 2022-07-01
+pubDate: 2025-10-01
 description: 'This is the first post of my Brand&Build blog.'
 author: 'Brand&Build'
 image:
@@ -8,9 +9,6 @@ image:
     alt: 'The Astro logo on a dark background with a pink glow.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-# My First Blog Post
-
-Published on: 2022-07-01
 
 Welcome to Brand&Build! Here, I will share my knoweledge about brand and website design and dev.
 
