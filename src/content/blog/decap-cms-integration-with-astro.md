@@ -8,9 +8,9 @@ tags:
   - learning in public
   - blogging
 ---
-**Decap CMS** is an open-source content management system built to work with static site generators like **Astro** here. It provides a simple, user-friendly interface that allows non-technical users to create, edit, and manage content without touching the codebase directly. Content is stored as files in your Git repository, ensuring version control, easy collaboration, and a smooth publishing workflow.
+**Decap CMS** is an open-source content management system built to work with static site generators like **Astro** here. It provides a simple, user-friendly interface that allows non-technical users to create, edit, and manage content without touching the codebase directly. Content is stored as files in your Git repository, ensuring version control, easy collaboration, and a smooth publishing workflow.[](https://picsum.photos/id/299/200/300)
 
-<https://picsum.photos/id/299/200/300>
+![Image sample](https://picsum.photos/id/607/300/300 "The ocean")
 
 By integrating Decap CMS into a site, you get the flexibility of a modern Git-based workflow along with the convenience of a CMS dashboard for content editors.
 
