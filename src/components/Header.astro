@@ -1,0 +1,30 @@
+---
+import Navigation from "./Navigation.astro";
+
+
+---
+<header>
+  <p>Brand&Build</p>
+  
+  <nav>
+    <Navigation />
+  </nav>
+</header>
+
+<style>
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+
+    p {
+      font-weight: 600;
+    }
+
+    nav {
+      display: flex;
+      gap: 1rem;
+    }
+  }
+</style>
