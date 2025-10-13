@@ -12,7 +12,7 @@ tags:
 
 I can see why a lot of people prefer this thing.
 
-![a branch of olive on a poster](/images/uploads/olive-poster-v3.png "An olive poster")
+![a branch of olive on a poster](/images/uploads/favicon.svg "An olive poster")
 
 * This should be okay
 * But this should not
@@ -20,14 +20,7 @@ I can see why a lot of people prefer this thing.
 
 ```
 <html></html>
-
-
-
-
-
 ```
-
-
 
 1. Number one and more
 2. the last
