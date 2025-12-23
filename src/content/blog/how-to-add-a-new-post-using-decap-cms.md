@@ -1,7 +1,9 @@
 ---
 title: How to add a new post using Decap CMS
 date: 2025-10-12T23:14:00.000+01:00
-description: This is the first time adding a decap post.
+description: |-
+  This is the first time adding a decap post.
+  And there it goes.
 author: Brand&Build
 tags:
   - astro
