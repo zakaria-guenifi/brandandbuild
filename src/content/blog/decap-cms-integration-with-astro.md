@@ -7,6 +7,7 @@ tags:
   - astro
   - learning in public
   - blogging
+layout: ../../layouts/MarkdownPostLayout.astro
 ---
 **Decap CMS** is an open-source content management system built to work with static site generators like **Astro** here. It provides a simple, user-friendly interface that allows non-technical users to create, edit, and manage content without touching the codebase directly. Content is stored as files in your Git repository, ensuring version control, easy collaboration, and a smooth publishing workflow.[](https://picsum.photos/id/299/200/300)
 
